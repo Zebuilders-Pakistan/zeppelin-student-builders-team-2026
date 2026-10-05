@@ -1,4 +1,9 @@
+### Contributor Profile
 
+- **Name:** Umaiza Waseem
+- **Role:** Student Builder / Ambassador
+- **University:** Fatima Jinnah Women University (FJWU)
+- **Task / Contribution:** Created PR for Zeppelin Student Builders 2026
 # Zeppelin Student Builders — National Team 2026
 
 <p align="center">
